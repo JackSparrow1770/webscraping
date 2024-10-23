@@ -1,2 +1,2 @@
 # webscraping
-Here I will be sharing my webscraping scripts
+Here I will be sharing my web-scraping scripts
